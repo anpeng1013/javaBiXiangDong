@@ -5,7 +5,7 @@ public class HelloWorld {
         int i=3;
         int a=(++i)+(++i)+(++i);
         System.out.println(a);
-        System.out.println("Hello,World!");
+        System.out.println("Hello,World! test haha");
         /*
         注意：
         set可以临时设置环境变量
