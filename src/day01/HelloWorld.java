@@ -5,6 +5,7 @@ public class HelloWorld {
         int i=3;
         int a=(++i)+(++i)+(++i);
         System.out.println(a);
+        System.out.println("anpeng love huli");
         System.out.println("Hello,World! test login in");
         /*
         注意：
