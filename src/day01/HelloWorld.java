@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println(a);
         System.out.println("anpeng love huli");
         System.out.println("Hello,World! test login in");
+        System.out.println("test ssh");
         /*
         注意：
         set可以临时设置环境变量
