@@ -9,6 +9,7 @@ public class HelloWorld {
         System.out.println("Hello,World! test login in");
         System.out.println("test ssh");
         System.out.println("test ssh3.0");
+        System.out.println("test subscription");
         /*
         注意：
         set可以临时设置环境变量
